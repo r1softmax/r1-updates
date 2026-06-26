@@ -1,7 +1,7 @@
 {
-  "version": "1.2.2",
-  "notes": "v1.2.2 \u2014 About tab added",
+  "version": "1.2.3",
+  "notes": "v1.2.3 - Yes Bank parser fix",
   "released": "27-06-2026",
   "patch_type": "dat",
-  "patch_url": "https://github.com/r1softmax/r1-updates/releases/download/v1.2.2/R1BankToBook_v1_2_2_code.r1patch"
+  "patch_url": "https://github.com/r1softmax/r1-updates/releases/download/v1.2.3/R1BankToBook_v1_2_3_code.r1patch"
 }
