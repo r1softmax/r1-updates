@@ -1,6 +1,6 @@
 {
   "version": "1.2.6",
-  "notes": "SSL certificate fix â€” update download now works on all Windows PCs",
+  "notes": "SSL certificate fix — update download now works on all Windows PCs",
   "released": "27-06-2026",
   "patch_type": "dat",
   "patch_url": "https://github.com/r1softmax/r1-updates/releases/download/v1.2.6/R1BankToBook_v1_2_6_code.r1patch"
