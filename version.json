@@ -1,7 +1,7 @@
 {
-  "version": "1.2.7",
-  "notes": "View Log password updated + SSL certificate fix for update download",
+  "version": "1.2.8",
+  "notes": "Test update - verifying auto-update works correctly",
   "released": "27-06-2026",
   "patch_type": "dat",
-  "patch_url": "https://github.com/r1softmax/r1-updates/releases/download/v1.2.7/R1BankToBook_v1_2_7_code.r1patch"
+  "patch_url": "https://github.com/r1softmax/r1-updates/releases/download/v1.2.8/R1BankToBook_v1_2_8_code.r1patch"
 }
