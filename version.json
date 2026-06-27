@@ -3,5 +3,5 @@
   "notes": "Check Update button added + SSL download fix for all Windows PCs",
   "released": "27-06-2026",
   "patch_type": "dat",
-  "patch_url": "https://github.com/r1softmax/r1-updates/releases/download/v1.3.1/R1BankToBook_v1_3_1_code.r1patch"
+  "patch_url": "https://raw.githubusercontent.com/r1softmax/r1-updates/main/patches/R1BankToBook_v1_3_1_code.r1patch"
 }
