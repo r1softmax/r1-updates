@@ -1,7 +1,7 @@
 {
-  "version": "1.2.8",
-  "notes": "Test update - verifying auto-update works correctly",
+  "version": "1.2.9",
+  "notes": "Smooth update install - no restart error, cleaner experience",
   "released": "27-06-2026",
   "patch_type": "dat",
-  "patch_url": "https://github.com/r1softmax/r1-updates/releases/download/v1.2.8/R1BankToBook_v1_2_8_code.r1patch"
+  "patch_url": "https://github.com/r1softmax/r1-updates/releases/download/v1.2.9/R1BankToBook_v1_2_9_code.r1patch"
 }
