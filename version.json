@@ -1,7 +1,7 @@
 {
-  "version": "1.2.9",
-  "notes": "Smooth update install - no restart error, cleaner experience",
+  "version": "1.3.0",
+  "notes": "Update download now works on ALL Windows PCs - no SSL error",
   "released": "27-06-2026",
   "patch_type": "dat",
-  "patch_url": "https://github.com/r1softmax/r1-updates/releases/download/v1.2.9/R1BankToBook_v1_2_9_code.r1patch"
+  "patch_url": "https://github.com/r1softmax/r1-updates/releases/download/v1.3.0/R1BankToBook_v1_3_0_code.r1patch"
 }
