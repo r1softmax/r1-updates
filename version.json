@@ -1,7 +1,7 @@
 {
-  "version": "1.3.7",
-  "notes": "New bank: IDFC FIRST Bank statement format added (7-col: Transaction Date, Value Date, Particulars, Cheque No, Debit, Credit, Balance)",
+  "version": "1.3.8",
+  "notes": "Fix: Check Update dialog now auto-resizes to show OK button; X button closes dialog",
   "released": "01-07-2026",
   "patch_type": "dat",
-  "patch_url": "https://raw.githubusercontent.com/r1softmax/r1-updates/main/patches/R1BankToBook_v1_3_7_code.r1patch"
+  "patch_url": "https://raw.githubusercontent.com/r1softmax/r1-updates/main/patches/R1BankToBook_v1_3_8_code.r1patch"
 }
