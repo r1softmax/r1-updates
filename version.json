@@ -3,5 +3,5 @@
   "notes": "Fix: password-protected PDF now correctly prompts for password (pdfminer exception class name check + PDF byte-scan)",
   "released": "01-07-2026",
   "patch_type": "dat",
-  "patch_url": "https://raw.githubusercontent.com/r1softmax/r1-updates/main/patches/R1BankToBook_v1_3_6_code.r1patch"
+  "patch_url": "https://github.com/r1softmax/r1-updates/releases/download/v1.3.6/R1BankToBook_v1_3_6_code.r1patch"
 }
