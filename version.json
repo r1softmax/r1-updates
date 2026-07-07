@@ -1,7 +1,7 @@
 {
-  "version": "1.3.19",
-  "notes": "Auto Suggest intelligence: direction-aware learning, precise name detection in UPI-IMPS narrations, built-in rules for ATM-GST-TDS-charges, learned mappings manager with export-import, optional auto-map on import",
-  "released": "07-07-2026",
+  "version": "1.3.20",
+  "notes": "Installer fix: desktop shortcut, Start Menu entry, working uninstaller and Add-Remove Programs entry on every install (including run-as-administrator)",
+  "released": "08-07-2026",
   "patch_type": "dat",
-  "patch_url": "https://raw.githubusercontent.com/r1softmax/r1-updates/main/patches/R1BankToBook_v1_3_19_code.r1patch"
+  "patch_url": "https://raw.githubusercontent.com/r1softmax/r1-updates/main/patches/R1BankToBook_v1_3_20_code.r1patch"
 }
