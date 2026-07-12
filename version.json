@@ -1,9 +1,10 @@
 {
-  "version": "1.3.22",
+  "version": "1.3.23",
   "notes": "Stability and performance improvements.",
   "released": "12-07-2026",
   "patch_type": "dat",
-  "patch_url": "https://raw.githubusercontent.com/r1softmax/r1-updates/main/patches/R1BankToBook_v1_3_22_code.r1patch",
+  "patch_url": "https://raw.githubusercontent.com/r1softmax/r1-updates/main/patches/R1BankToBook_v1_3_23_code.r1patch",
   "min_loader": 0,
+  "latest_loader": 2,
   "setup_url": "https://github.com/r1softmax/r1-updates/releases/latest/download/R1BankToBook_Setup.exe"
 }
