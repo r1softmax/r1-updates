@@ -1,9 +1,9 @@
 {
-  "version": "1.3.30",
-  "notes": "Important update - please reinstall when prompted. Stability and performance improvements.",
+  "version": "1.3.31",
+  "notes": "New: Kotak Mahindra Bank statement support.",
   "released": "15-07-2026",
   "patch_type": "dat",
-  "patch_url": "https://raw.githubusercontent.com/r1softmax/r1-updates/main/patches/R1BankToBook_v1_3_30_code.r1patch",
+  "patch_url": "https://raw.githubusercontent.com/r1softmax/r1-updates/main/patches/R1BankToBook_v1_3_31_code.r1patch",
   "min_loader": 0,
   "latest_loader": 3,
   "setup_url": "https://github.com/r1softmax/r1-updates/releases/latest/download/R1BankToBook_Setup.exe"
