@@ -1,9 +1,9 @@
 {
-  "version": "1.3.40",
-  "notes": "Added Indian Overseas Bank statement support.",
-  "released": "28-07-2026",
+  "version": "1.3.41",
+  "notes": "Added Bank of Baroda passbook statement format.",
+  "released": "05-08-2026",
   "patch_type": "dat",
-  "patch_url": "https://raw.githubusercontent.com/r1softmax/r1-updates/main/patches/R1BankToBook_v1_3_40_code.r1patch",
+  "patch_url": "https://raw.githubusercontent.com/r1softmax/r1-updates/main/patches/R1BankToBook_v1_3_41_code.r1patch",
   "min_loader": 0,
   "latest_loader": 3,
   "min_full_version": "0.0.0",
