@@ -1,9 +1,9 @@
 {
-  "version": "1.3.45",
-  "notes": "Important licensing fix: the app no longer re-asks for your key after changing Wi-Fi, LAN, docking station or VPN.",
+  "version": "1.3.46",
+  "notes": "Activation screen now has a Download & Install Latest button, so you can update without being locked out.",
   "released": "01-10-2026",
   "patch_type": "dat",
-  "patch_url": "https://raw.githubusercontent.com/r1softmax/r1-updates/main/patches/R1BankToBook_v1_3_45_code.r1patch",
+  "patch_url": "https://raw.githubusercontent.com/r1softmax/r1-updates/main/patches/R1BankToBook_v1_3_46_code.r1patch",
   "min_loader": 0,
   "latest_loader": 3,
   "min_full_version": "0.0.0",
